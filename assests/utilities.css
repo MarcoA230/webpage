@@ -1,0 +1,184 @@
+.col-1{
+    width: 8.33%;
+}
+
+.col-3{
+    width: 25%;
+}
+
+.col-4{
+    width: 33.33%;
+}
+
+.col-6{
+    width: 50%;
+}
+
+.col-8{
+    width: 66.66%;
+}
+
+.col-12{
+    width: 100%;
+}
+
+.row{
+    display: flex;
+    flex-wrap: wrap;
+}
+
+.flex-wrap{
+    flex-wrap: wrap;
+}
+
+.display-flex{
+    display: flex;
+}
+
+
+.text-color-white{
+    color: white;
+}
+
+.align-items-center{
+    align-items: center;
+}
+
+.justify-content-center{
+    justify-content: center;
+}
+
+.justify-content-space-around{
+    justify-content: space-around;
+}
+
+.justify-content-end{
+    justify-content: end;
+}
+
+
+.margin-left-1-porcent{
+    margin-left: 1%;
+}
+
+.margin-left-2-porcent{
+    margin-left: 2%;
+}
+
+.margin-left-5-porcent{
+    margin-left: 5%;
+}
+
+.margin-left-15-porcent{
+    margin-left: 15%;
+}
+
+.margin-right-5-porcent{
+    margin-right: 5%;
+}
+
+.margin-top-09-porcent{
+    margin-top: 0.9%;
+}
+
+.margin-top-1-porcent{
+    margin-top: 1%;
+}
+
+.margin-top-2-porcent{
+    margin-top: 2%;
+}
+
+.margin-top-3-porcent{
+    margin-top: 3%;
+}
+
+.margin-top-4-porcent{
+    margin-top: 4%;
+}
+
+.margin-top-5-porcent{
+    margin-top: 5%;
+}
+
+.margin-top-9-porcent{
+    margin-top: 9%;
+}
+
+.margin-top-10-porcent{
+    margin-top: 10%;
+}
+
+.margin-top-20-porcent{
+    margin-top: 20%;
+}
+
+.padding-5-porcent{
+    padding: 5%;
+}
+
+.border-solid{
+    border: solid;
+}
+
+.border-solid-white{
+    border: solid white;
+}
+
+.border-solid-bottom-white{
+    border-bottom: solid white 1px;
+}
+
+.border-radius-circle-white{
+    border: solid white 1px;
+    border-radius: 50%;
+    width: 40px;
+    height: 40px;
+}
+
+
+.border-solid-10px-gris{
+    border: solid #E3E3E3 10px;
+}
+
+.font-size-20px{
+    font-size: 20px;
+}
+
+.font-size-35px{
+    font-size: 35px;
+}
+
+.font-size-07-rem{
+    font-size: 0.7rem;
+}
+
+.font-size-1-2-rem{
+    font-size: 1.2rem;
+}
+
+.font-size-2rem{
+    font-size: 2rem;
+}
+
+.font-size-3rem{
+    font-size: 3rem;
+}
+
+.font-size-4rem{
+    font-size: 4rem;
+}
+
+.font-weight-bold{
+    font-weight: bold;
+}
+
+.font-family-open-sans{
+    font-family: 'Open Sans', sans-serif;
+}
+
+.font-family-nunito{
+    font-family: 'Nunito', sans-serif;
+}
+
+
