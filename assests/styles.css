@@ -1,5 +1,5 @@
 .section-1{
-    height: 100vh;
+    height: 800px;
     background-image: url("https://us.123rf.com/450wm/wektorygrafika/wektorygrafika1509/wektorygrafika150900154/45583636-estrellas-y-espacio-galaxia-cielo-nocturno-estrellado-fondo-universo-lleno-de-estrellas-ilustraci%C3%B3n-.jpg?ver=6");
     background-size: cover;
 }
@@ -22,29 +22,4 @@ nav{
     background-image: url("https://images.pexels.com/photos/3535630/pexels-photo-3535630.jpeg?auto=compress&cs=tinysrgb&dpr=1&w=500");
     background-size: cover;
     background-position: center;
-}
-
-.section-3{
-    background-color: antiquewhite;
-    height: 800px;
-}
-
-.card-1{
-    height: 400px;
-    background-color: white;
-}
-
-.card-2{
-    height: 400px;
-    background-color: white;
-}
-
-.card-3{
-    height: 400px;
-    background-color: white;
-}
-
-.card-4{
-    height: 400px;
-    background-color: white;
 }

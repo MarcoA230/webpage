@@ -1,0 +1,11 @@
+@media (min-width: 992px){
+
+    .width-image-nav-lg{
+        width: 30%;
+    }
+
+    .font-size-1-rem-lg{
+        font-size: 1rem;
+    }
+
+}

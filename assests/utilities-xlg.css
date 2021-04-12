@@ -1,0 +1,32 @@
+@media (min-width: 1200px){
+
+    .col-2-xlg{
+        width: 16.66%;
+    }
+
+    .width-image-nav-xlg {
+        width: 25%;
+    }
+
+    .row-xlg{
+        display: flex;
+        flex-wrap: wrap;
+    }
+
+    .justify-content-center-xlg{
+        justify-content: center;
+    }
+
+    .justify-content-space-around-xlg{
+        justify-content: space-around;
+    }
+
+    .margin-left-0-rem-xlg{
+        margin-left: 0;
+    }
+
+    .margin-left-1-rem-xlg{
+        margin-left: 1rem;
+    }
+
+}
